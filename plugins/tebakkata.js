@@ -20,7 +20,7 @@ Ketik ${usedPrefix}teka untuk bantuan
 Bonus: ${poin} XP
 `.trim()
     conn.tebakkata[id] = [
-        await conn.sendButton(m.chat, caption, '© nekobotz', 'Bantuan', '.teka'),
+        await conn.sendButton(m.chat, caption, '© Mr. Bot Lintang', 'Bantuan', '.teka'),
         json, poin,
         setTimeout(async () => {
             if (conn.tebakkata[id]) await conn.sendButton(m.chat, `Waktu habis!\nJawabannya adalah *${json.jawaban}*`, '© nekobotz', 'Tebak Kata', '.tebakkata')
