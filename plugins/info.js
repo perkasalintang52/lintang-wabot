@@ -77,13 +77,13 @@ let handler  = async (m, { conn, usedPrefix }) => {
 *ℒ⃝💻C O N N E C T  W I T H  M E*
 
 ⛎ *Api:* http://api-alphabot.herokuapp.com
-♈ *Youtube:* http://youtube.com/c/zeeoneofc
-♉ *Github:* http://zeeoneofc.github.io
-♊ *Insragram:* http://instagram.com/_ppiowy
-♋ *Tiktok:* http://tiktok.com/@zeeoneofc
+♈ *Youtube:* -
+♉ *Github:* -
+♊ *Insragram:* http://instagram.com/joceylintangg
+♋ *Tiktok:* http://tiktok.com/@joceylintangg
 ♌ *Telegram:* http://t.me/zeeoneofc
-♎ *Ch telegram:* http://t.me/zeeone_ofc
-♏ *Whatsapp:* wa.me/6285712420674
+♎ *Ch telegram:* -
+♏ *Whatsapp:* wa.me/6281322577123
 
 
 
