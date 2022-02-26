@@ -20,7 +20,7 @@ Bonus: ${poin} XP
         await conn.sendButtonImg(m.chat, await (await fetch(json.image)).buffer(), caption, wm, 'BANTUAN', '.wa', m),
         json, poin,
         setTimeout(async () => {
-            if (conn.tebakanime[id]) await conn.sendButton(m.chat, `Waktu habis!\nJawabannya adalah *${json.name}*`, '© nekobotz', 'Tebak Anime', `${usedPrefix + command}`, m)
+            if (conn.tebakanime[id]) await conn.sendButton(m.chat, `Waktu habis!\nJawabannya adalah *${json.name}*`, '© Mr. Bot Lintang', 'Tebak Anime', `${usedPrefix + command}`, m)
             delete conn.tebakanime[id]
         }, timeout)
     ]
