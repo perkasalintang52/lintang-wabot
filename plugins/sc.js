@@ -3,14 +3,14 @@ let fetch = require('node-fetch')
 let pp = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=Source+code'
 let info = `╭═[ *SCRIPT* ]═────···
 ┴
-│ *Script :* 60K (No node_module)
+│ *Script :* Follow IG & TIKTOK Owner
 │ *Base :*
-│ ╰ https://github.com/nurutomo/wabot-aq
+│ ╰ https://instagram/joceylintangg
 │ *RestApi :* 
-│ ╰ https://hardianto.xyz
+│ ╰ https://tiktok.com/@joceylintangg
 ┬
 ╰──────────═┅═──────────
-[❗] Jangan diperjual belikan tanpa seizin owner
+[❗] Jangan lupa follow IG & TIKTOK owner
 `.trim()
 await conn.send2Button(m.chat, info, `${botol}`, '⋮☰ Back', '.menu', 'Owner', '.nowner', m)
 conn.reply(info)
